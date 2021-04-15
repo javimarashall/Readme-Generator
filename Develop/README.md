@@ -3,8 +3,9 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description:
+```
 it is great
-
+```
 ## Table of Contents:
 
 * [Installation](#Installation)
@@ -15,14 +16,15 @@ it is great
 
 * [Contributing](#Contributing)
 
-* [Tests](#tests)
+* [Tests](#Tests)
 
 * [Questions](#Questions)
 
 ## Installation
 ### To Install the necessary dependencies, run the following command:
+```
 none
-
+```
 ## Usage:
 ```
 none
@@ -32,15 +34,15 @@ none
 MIT
 ```
 ## Contributing
+```
 undefined
 ```
 ## Tests
 ```
 none
+```
 ## Questions
-```
-javimarashall<br>
-[GitHub](https://github.com/javimarashall)
-```
-jamondra@ucdavis.edu
 
+javimarashall
+[GitHub](https://github.com/javimarashall)
+E-Mail: jamondragon@ucdavis.edu

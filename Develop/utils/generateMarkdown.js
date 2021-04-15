@@ -49,14 +49,16 @@ ${data.tests}
 ${data.license}
 \`\`\`
 ## Contributing
-${data.Contributing}
+\`\`\`
+${data.contributing}
 \`\`\`
 ## Tests
 \`\`\`
 ${data.tests}
+\`\`\`
 ## Questions
 \`\`\`
-${data.username}<br>
+${data.username}
 [GitHub](https://github.com/javimarashall)
 E-Mail: ${data.email}
 \`\`\`
