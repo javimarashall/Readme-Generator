@@ -41,24 +41,29 @@ ${data.description}
 ${data.dependencies}
 \`\`\`
 ## Usage:
+### Languages to know for using the repo:
 \`\`\`
-${data.tests}
+${data.repo}
 \`\`\`
 ## License
+### This application is covered under:
 \`\`\`
 ${data.license}
 \`\`\`
 ## Contributing
+### Languages to know for contributing:
 \`\`\`
 ${data.contributing}
 \`\`\`
 ## Tests
+### Commands to know for running tests:
 \`\`\`
 ${data.tests}
 \`\`\`
-## Questions
+## Questions?
+### If you have questions please contact me:
 \`\`\`
-${data.username}
+GitHub username: ${data.username}
 [GitHub](https://github.com/javimarashall)
 E-Mail: ${data.email}
 \`\`\`

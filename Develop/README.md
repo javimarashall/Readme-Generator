@@ -4,7 +4,7 @@
 
 ## Description:
 ```
-it is great
+it is a great project
 ```
 ## Table of Contents:
 
@@ -23,26 +23,32 @@ it is great
 ## Installation
 ### To Install the necessary dependencies, run the following command:
 ```
-none
+None
 ```
 ## Usage:
+### What to know for using the repo:
 ```
-none
+HTML CSS JAVA
 ```
 ## License
+### This application is covered under:
 ```
 MIT
 ```
 ## Contributing
+### Languages to know for contributing:
 ```
-undefined
+HTML
 ```
 ## Tests
+### Commands to know for running tests:
 ```
-none
+None
 ```
-## Questions
-
-javimarashall
+## Questions?
+### If you have questions please contact me:
+```
+GitHub username: javimarashall
 [GitHub](https://github.com/javimarashall)
-E-Mail: jamondragon@ucdavis.edu
+E-Mail: jamondra@ucdavis.edu
+```

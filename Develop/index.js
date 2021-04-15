@@ -41,13 +41,13 @@ const questions = [
         message: 'What command should be run to tests?',
     },
     {
-        type: 'checkbox', 
+        type: 'input', 
         name: 'repo',
         message: 'What does the user need to know about using the repo?',
         choices: ['HTML', 'CSS', 'JS'],
     },
     {
-        type: 'checkbox', 
+        type: 'list', 
         name: 'contributing',
         message: 'What does the user need to know about contributing to the repo?',
         choices: ['HTML', 'CSS', 'JS'],
