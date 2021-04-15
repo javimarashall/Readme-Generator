@@ -4,7 +4,7 @@
 
 ## Description:
 ```
-it is a great project
+This application generates a readme file from user input. The application gets executed from the command prompt and the user is prompted with questions about their project. The user inputs their answers into the command prompt.  
 ```
 ## Table of Contents:
 
@@ -26,7 +26,7 @@ it is a great project
 None
 ```
 ## Usage:
-### What to know for using the repo:
+### Languages to know for using the repo:
 ```
 HTML CSS JAVA
 ```
@@ -50,5 +50,5 @@ None
 ```
 GitHub username: javimarashall
 [GitHub](https://github.com/javimarashall)
-E-Mail: jamondra@ucdavis.edu
+E-Mail: jamondragon@ucdavis.edu
 ```
