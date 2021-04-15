@@ -25,10 +25,10 @@ const questions = [
         message: 'Please write a short description of your project',
     },
     {
-        type: 'checkbox', 
+        type: 'list', 
         name: 'license',
         message: 'What kind of license should your project have?',
-        choices: ['MIT', 'Apache License 2.0', 'Boost Software License', 'Mozilla Public License']
+        choices: ['MIT', 'APACHE2.0', 'BSD3', 'GPL3.0']
     },
     {
         type: 'input', 

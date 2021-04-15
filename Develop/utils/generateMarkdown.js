@@ -15,9 +15,12 @@ function generateMarkdown(data) {
  console.log(data);
   return `# ${data.project}
 
-## Description:
-${data.description}
+![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)
 
+## Description:
+\`\`\`
+${data.description}
+\`\`\`
 ## Table of Contents:
 
 * [Installation](#Installation)
@@ -28,24 +31,35 @@ ${data.description}
 
 * [Contributing](#Contributing)
 
-* [Tests](#tests)
+* [Tests](#Tests)
 
 * [Questions](#Questions)
 
 ## Installation
 ### To Install the necessary dependencies, run the following command:
+\`\`\`
 ${data.dependencies}
-
+\`\`\`
 ## Usage:
+\`\`\`
 ${data.tests}
-
-
+\`\`\`
+## License
+\`\`\`
+${data.license}
+\`\`\`
+## Contributing
+${data.Contributing}
+\`\`\`
+## Tests
+\`\`\`
+${data.tests}
 ## Questions
-${data.username}
+\`\`\`
+${data.username}<br>
 [GitHub](https://github.com/javimarashall)
-
-${data.email}
-
+E-Mail: ${data.email}
+\`\`\`
 `;         
 
 }
