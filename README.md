@@ -4,7 +4,12 @@
 
 ## Description:
 ```
-This application generates a readme file from user input using the command line. First, the user needs to navigate in the command line to the proper directory where the application is located. Once in the right directory, invoke the application by using the command "node index.js." The user is then prompted with questions about their project such as, project title, description, license, etc. After the user answers the questions, press enter and the readme generator will generate a readme file with the user input. The readme generator application has pre-determined sections where it will put the answers to the questions. 
+This application generates a readme file from user input using the command line. First, the user needs
+to navigate in the command line to the proper directory where the application is located. Once in the 
+right directory, invoke the application by using the command "node index.js." The user is then prompted
+with questions about their project such as, project title, description, license, etc. After the user 
+answers the questions, press enter and the readme generator will generate a readme file with the user input.
+The readme generator application has pre-determined sections where it will put the answers to the questions. 
 ```
 ## Table of Contents:
 
