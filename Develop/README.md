@@ -4,7 +4,7 @@
 
 ## Description:
 ```
-This application generates a readme file from user input. The application gets executed from the command prompt and the user is prompted with questions about their project. The user inputs their answers into the command prompt.  
+This project generates a professional readme
 ```
 ## Table of Contents:
 
