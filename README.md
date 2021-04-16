@@ -47,8 +47,7 @@ None
 ```
 ## Questions?
 ### If you have questions please contact me:
-```
-GitHub username: javimarashall
-[GitHub](https://github.com/javimarashall)
-E-Mail: jamondragon@ucdavis.edu
-```
+
+GitHub username: javimarashall<br>
+[GitHub](https://github.com/javimarashall)<br>
+E-Mail:jamondragon@ucdavis.edu
